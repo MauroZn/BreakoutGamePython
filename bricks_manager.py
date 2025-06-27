@@ -1,5 +1,4 @@
 from turtle import Turtle
-import random
 
 COLORS = ["green", "lightgreen", "yellow", "orange", "red"]
 
